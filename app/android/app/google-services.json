@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1007346672259",
+    "project_id": "beomytech-test",
+    "storage_bucket": "beomytech-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007346672259:android:7f1bca63a00fc50b1331b6",
+        "android_client_info": {
+          "package_name": "com.beomytech.test.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007346672259-05ejc8msphhj0lsqivvr31rcc1lccqnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beomytech.test.app",
+            "certificate_hash": "07b6bce114a9305d1f06f8589674d34b7e26b3c5"
+          }
+        },
+        {
+          "client_id": "1007346672259-kletucdualtg0fp4mrdnfv9cndcjopmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beomytech.test.app",
+            "certificate_hash": "8a2551ab713256c35c96b20e0dcd9c7e29bca53e"
+          }
+        },
+        {
+          "client_id": "1007346672259-j02m51jga71k9gde2h6qa768jej9rpaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD29F9v2x6f_RlZuorCeifkzZYh91Q-DLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007346672259-j02m51jga71k9gde2h6qa768jej9rpaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1007346672259-cdg1v6i7vsed4r945kf2an8ut87q49oi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beomytechTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
